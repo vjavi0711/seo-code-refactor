@@ -1,16 +1,87 @@
-# seo-code-refactor
-The first professional portfolio piece wherein we are refactoring to use HTML5 syntax. 
-The former code for the Horiseon webpage was unnecesarily long. We were able to consolidate the code and reorganize CSS to make the website more accessible and efficient.
-The new code is a lot more concise, which makes it easier to manipulate should one need to, without changing the main display of the actual webpage. 
-
-
-
-URL to repository:
- https://github.com/vjavi0711/seo-code-refactor
-
-URL to deployed application
- https://vjavi0711.github.io/seo-code-refactor/
- 
- ![](images/2021-09-23%20(2).png)
- 
- ![](images/2021-09-23%20(4).png)
+# MAIN TITLE
+# SECONDARY TITLE
+​
+## Table of contents
+​
+- [General info](#General-Info)
+- [Technologies](#Technologies)
+- [Containers](#Containers)
+- [Deployment](#Deployment)
+- [Code Overview](#Code-Overview)
+- [Summary](#Summary)
+- [CSS style](#CSS-style)
+- [Routing Explained](#Routing-Explained)
+​
+​
+## General-Info
+​
+General description here
+​
+Deployed link: 
+​
+Landing page 
+​
+![Image](./assets/images/screenshot.png)
+​
+## Technologies
+​
+Project is created with:
+​
+- [React](https://reactjs.org/)
+- [React-Router](https://reacttraining.com/react-router/)
+- [React-Redux](https://react-redux.js.org/)
+- [Passport.js](http://www.passportjs.org/)
+- [Material-UI](https://material-ui.com/)
+- [JavaScript](https://www.javascript.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Node.js](https://nodejs.org/)
+- [Express.js](https://expressjs.com/)
+- [MongoDb](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
+- [Socket.io](https://socket.io/)
+- [Bcrypt.js](https://www.npmjs.com/package/bcrypt)
+- [React-Chartjs-2](https://github.com/jerairrest/react-chartjs-2)
+​
+## Containers
+​
+![Image](assets/containers.png)
+​
+## Deployment
+​
+Download the repository
+​
+- Copy the repo
+- In your terminal, cd to the CRM folder directory, `$npm i`
+- To run on browser: `npm start`
+- You can also use the heroku-link for a demo:
+- Deployed link: 
+​
+## Code Overview
+​
+- Basic overview
+​
+## Summary
+​
+- This project is a mock-CRM for a start-up/small brewery company. 
+​
+## CSS style
+​
+- This part we explain the CSS style 
+​
+​
+## Routing-Explained
+​
+- Routing 
+​
+![Image](assets/routing.png)
+​
+## Authors
+​
+- John Doe
+- Jane Doe
+​
+## License
+​
+- Open Source
+​
+​
