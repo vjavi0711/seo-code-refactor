@@ -10,3 +10,7 @@ URL to repository:
 
 URL to deployed application
  https://vjavi0711.github.io/seo-code-refactor/
+ 
+ ![](images/2021-09-23%20(2).png)
+ 
+ ![](images/2021-09-23%20(4).png)
