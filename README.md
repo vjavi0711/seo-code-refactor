@@ -1,4 +1,4 @@
-# Code Refactor
+# Horiseon Code Refactor
 
 ## General-Info
 
@@ -7,7 +7,9 @@
 ​
 [Deployed link](https://vjavi0711.github.io/seo-code-refactor/)
 ​
+
 [Landing page](https://github.com/vjavi0711/seo-code-refactor)
-​
+
+
 ![Image](./assets/images/horiseon1.png)
 ​
